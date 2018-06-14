@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Py_GoldSearch", "Py_GoldSearch\Py_GoldSearch.pyproj", "{1AD38A85-2C36-407A-8E8D-E7E6ECD40630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD38A85-2C36-407A-8E8D-E7E6ECD40630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD38A85-2C36-407A-8E8D-E7E6ECD40630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1A5E427-AEAA-4A90-AB41-A767DBDE4A3B}
+	EndGlobalSection
+EndGlobal
